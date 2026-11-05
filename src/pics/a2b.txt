@@ -1,0 +1,204 @@
+@25
+e1 woman-running high-voltage
+e2 trophy
+e3 basketball feather
+e4 soccer-ball thumbs-up
+e5 person-lifting-weights spiral-calendar
+e6 bed hourglass-not-done
+e7 tennis sparkles
+e8 memo magnifying-glass-tilted-right
+e9 soccer-ball thumbs-down
+e10 person-running sweat-droplets
+e11 clipboard thumbs-up
+e12 flexed-biceps sparkles
+e13 basketball spiral-calendar
+e14 person-swimming sun
+e15 martial-arts-uniform
+v1 soccer-ball
+v2 basketball
+v3 volleyball
+v4 person-wrestling
+v5 boxing-glove
+v6 person-lifting-weights
+v7 man stopwatch
+v8 busts-in-silhouette trophy
+v9 stadium
+v10 goal-net soccer-ball
+v11 trophy
+v12 2nd-place-medal
+v13 person-running stopwatch
+v14 flexed-biceps
+v15 red-apple red-heart
+v16 high-voltage
+v17 magnifying-glass-tilted-right
+v18 thumbs-up
+@26
+e1 woman-health-worker ?
+e2 woman-office-worker bank ?
+e3 bar-chart ?
+e4 speaking-head flag:kr ?
+e5 man-technologist ?
+e6 woman office-building ?
+e7 briefcase ?
+e8 office-building ?
+e9 handshake ?
+e10 briefcase red-exclamation-mark
+e11 man-health-worker cat
+e12 man-police-officer night-with-stars
+e13 hourglass-not-done memo
+e14 sun thermometer #↘
+e15 woman-office-worker #↗
+v1 man-health-worker
+v2 woman-health-worker
+v3 tooth woman-health-worker
+v4 man-construction-worker gear
+v5 man-technologist
+v6 woman-artist
+v7 woman-judge balance-scale
+v8 man-office-worker abacus
+v9 woman-police-officer
+v10 man-firefighter
+v11 man-cook
+v12 woman-pilot
+v13 man-farmer
+v14 newspaper microphone
+v15 woman-health-worker dog
+v16 money-bag
+v17 office-building
+v18 handshake briefcase
+v19 coin chart-increasing
+@27
+e1 tired-face fork-and-knife-with-plate
+e2 face-with-thermometer
+e3 smiling-face-with-smiling-eyes+slightly-frowning-face
+e4 anxious-face-with-sweat memo
+e5 pensive-face mobile-phone
+e6 soccer-ball cloud-with-lightning-and-rain
+e7 bus alarm-clock
+e8 birthday-cake
+e9 microphone fearful-face
+e10 school face-with-thermometer
+e11 cinema yawning-face
+e12 newspaper star-struck
+v1 smiling-face-with-smiling-eyes
+v2 slightly-frowning-face
+v3 angry-face
+v4 pensive-face
+v5 worried-face
+v6 anxious-face-with-sweat
+v7 star-struck
+v8 unamused-face
+v9 tired-face
+v10 fearful-face
+v11 astonished-face
+v12 1st-place-medal
+v13 bust-in-silhouette
+v14 grimacing-face
+v15 relieved-face
+v16 smiling-face-with-sunglasses
+v17 eyes
+v18 person-in-lotus-position
+@28
+e1 woman-swimming
+e2 person-running !
+e3 door ?
+e4 tooth person-in-bed
+e5 window palms-up-together
+e6 woman-teacher door ?
+e7 pill #×2
+e8 bed lollipop !
+e9 person-in-bed ?
+e10 teapot teacup-without-handle
+e11 pill ?
+e12 handshake ?
+e13 tooth woman-health-worker
+e14 night-with-stars video-game !
+e15 person-shrugging ?
+v1 bust-in-silhouette
+v2 bust-in-silhouette #throat
+v3 scarf
+v4 person-standing #shoulder
+v5 person-standing #back
+v6 #stomach
+v7 leg
+v8 tooth
+v9 face-with-head-bandage
+v10 tooth high-voltage
+v11 hot-beverage lemon
+v12 thermometer
+v13 face-with-medical-mask
+v14 sneezing-face
+v15 pill
+v16 person-in-bed
+v17 adhesive-bandage
+v18 spiral-calendar stethoscope
+v19 warning
+@29
+e1 laptop thought-balloon
+e2 mobile-phone wastebasket
+e3 laptop play-button
+e4 locked-with-key ?
+e5 ten-oclock video-game !
+e6 woman-teacher laptop
+e7 mobile-phone people-hugging
+e8 bed mobile-phone !
+e9 camera-with-flash star
+e10 video-game red-heart
+e11 laptop shopping-cart
+e12 laptop snail
+e13 mobile-phone hourglass-not-done
+e14 bell+bell+bell
+e15 selfie ? #13+
+e16 mobile-phone floppy-disk !
+e17 wireless snail
+v1 mobile-phone
+v2 puzzle-piece mobile-phone
+v3 inbox-tray
+v4 outbox-tray
+v5 locked-with-key
+v6 bust-in-silhouette locked
+v7 wireless
+v8 globe-with-meridians laptop
+v9 magnifying-glass-tilted-left
+v10 laptop green-circle
+v11 desktop-computer
+v12 battery
+v13 electric-plug battery
+v14 wastebasket
+v15 mobile-phone+mobile-phone
+v16 framed-picture red-heart
+v17 clockwise-vertical-arrows
+v18 bell
+@30
+e1 water-wave+water-wave factory
+e2 woman+man recycling-symbol
+e3 snow-capped-mountain red-heart
+e4 man+woman automobile !
+e5 cityscape+cityscape wastebasket
+e6 woman-student+man-student+woman-student seedling
+e7 leaf-fluttering-in-wind busts-in-silhouette
+e8 busts-in-silhouette+busts-in-silhouette heart-hands
+e9 wastebasket+wastebasket+wastebasket
+e10 shopping-bags !
+e11 man+woman broom
+e12 boy+girl droplet
+e13 recycling-symbol counterclockwise-arrows-button
+v1 globe-showing-asia-australia seedling
+v2 deciduous-tree+evergreen-tree
+v3 factory
+v4 cup-with-straw
+v5 recycling-symbol
+v6 wastebasket
+v7 litter-in-bin-sign
+v8 evergreen-tree+evergreen-tree
+v9 water-wave
+v10 canoe
+v11 desert
+v12 snow-capped-mountain
+v13 leaf-fluttering-in-wind
+v14 thermometer globe-showing-asia-australia
+v15 globe-showing-europe-africa
+v16 shield
+v17 high-voltage
+v18 wastebasket
+v19 heart-hands

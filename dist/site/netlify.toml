@@ -1,0 +1,11 @@
+# Netlify: /api/* so'rovlarini Cloudflare workerga yo'naltiradi (o'quvchilar, Teacher panel, ovoz paketlari)
+[[redirects]]
+  from = "/api/*"
+  to = "https://YOUR-WORKER.YOUR-ACCOUNT.workers.dev/api/:splat"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Permissions-Policy = "microphone=(self)"

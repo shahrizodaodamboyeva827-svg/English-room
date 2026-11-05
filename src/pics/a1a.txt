@@ -1,0 +1,193 @@
+@7
+e1 dog+cat
+e2 red-apple tear-off-calendar
+e3 woman-health-worker dog
+e4 automobile #1_h
+e5 parrot speech-balloon
+e6 sun thermometer
+e7 guitar
+e8 water-wave person-swimming
+e9 banana+banana
+e10 fork-and-knife-with-plate one-oclock
+e11 soccer-ball ?
+e12 horse
+e13 dog #thə
+e14 elephant #thi
+e15 tangerine #thi
+v1 cat
+v2 dog
+v3 horse
+v4 cow
+v5 ewe
+v6 chicken
+v7 elephant
+v8 parrot
+v9 red-apple
+v10 banana
+v11 grapes
+v12 melon
+v13 watermelon
+v14 potato
+v15 tomato
+v16 carrot
+v17 onion
+v18 cucumber
+@8
+e1 pen sw:1E6FE0
+e2 books sparkles
+e3 notebook ?
+e4 girl backhand-index-pointing-right
+e5 woman-student+man-student+woman-student #11-A
+e6 bust-in-silhouette ?
+e7 clipboard spiral-calendar
+e8 crayon+crayon+crayon
+e9 running-shoe ?
+e10 woman+woman-teacher
+e11 mobile-phone speech-balloon
+v1 abacus
+v2 classical-building
+v3 globe-showing-asia-australia
+v4 dna
+v5 test-tube
+v6 atom-symbol
+v7 basketball
+v8 desktop-computer
+v9 open-book
+v10 clipboard
+v11 notebook
+v12 blue-book
+v13 pencil+pen
+v14 straight-ruler
+v15 pencil sw:F7A8C4
+v16 #a²+b²
+v17 chair books
+v18 house-with-garden memo
+v19 woman-student+man-student
+@9
+e1 girl red-heart
+e2 busts-in-silhouette face-with-tears-of-joy
+e3 person handshake
+e4 man-standing straight-ruler
+e5 woman sw:1C1F3F
+e6 house-with-garden #1905
+e7 woman-curly-hair ?
+e8 woman-teacher ?
+e9 man glasses
+e10 woman-scientist brain
+e11 boy flushed-face
+e12 memo check-mark-button
+v1 man-standing straight-ruler
+v2 child straight-ruler
+v3 woman-walking
+v4 woman-curly-hair
+v5 woman-blonde-hair
+v6 man-beard
+v7 glasses
+v8 heart-hands
+v9 waving-hand
+v10 face-with-tears-of-joy
+v11 brain
+v12 sloth
+v13 flushed-face
+v14 balance-scale
+v15 wrapped-gift
+v16 person-bowing
+v17 right-anger-bubble
+v18 flexed-biceps
+v19 woman-office-worker briefcase
+@10
+e1 school eight-oclock
+e2 pancakes hot-beverage
+e3 memo cross-mark
+e4 notebook pencil
+e5 video-camera mobile-phone
+e6 people-hugging sparkles
+e7 flag:uz+flag:ru+flag:gb
+e8 old-woman mobile-phone !
+e9 person-biking ?
+e10 man-raising-hand palms-up-together
+e11 window ?
+e12 potable-water ?
+e13 guitar thought-balloon
+e14 woman-singer woman-dancing
+v1 person-walking
+v2 check-mark-button
+v3 hammer-and-wrench
+v4 palm-up-hand package
+v5 alarm-clock
+v6 wrapped-gift palm-up-hand
+v7 person-walking door
+v8 light-bulb
+v9 person-swimming
+v10 person-biking
+v11 artist-palette
+v12 cooking
+v13 speaking-head
+v14 microphone
+v15 woman-dancing
+v16 video-game
+v17 cross-mark
+v18 ring-buoy
+@11
+e1 girl+woman+woman
+e2 dog bone
+e3 woman-teacher sparkles
+e4 electric-plug ?
+e5 house-with-garden busts-in-silhouette
+e6 mobile-phone woman
+e7 laptop girl
+e8 automobile sw:FFFFFF
+e9 bed up-arrow
+e10 school chequered-flag
+e11 handbag artist-palette
+e12 cityscape flag:uz
+e13 headphone ?
+e14 purse ?
+e15 mobile-phone sparkles
+e16 cat yarn
+v1 mobile-phone
+v2 laptop
+v3 electric-plug
+v4 headphone
+v5 purse
+v6 key
+v7 backpack
+v8 closed-umbrella
+v9 watch
+v10 glasses
+v11 bottle-with-popping-cork
+v12 identification-card
+v13 #mine
+v14 #yours
+v15 #whose?
+v16 link
+v17 magnifying-glass-tilted-left ?
+@12
+e1 television popcorn
+e2 mobile-phone speech-balloon
+e3 ear ?
+e4 person-running deciduous-tree
+e5 pizza cooking
+e6 woman+man hot-beverage
+e7 singer musical-notes
+e8 open-book spiral-calendar
+e9 person-shrugging ?
+e10 light-bulb check-mark-button
+e11 woman fork-and-knife-with-plate
+e12 mobile-phone sparkles
+v1 video-game
+v2 television
+v3 open-book
+v4 headphone
+v5 mobile-phone speech-balloon
+v6 camera-with-flash
+v7 artist-palette
+v8 guitar
+v9 person-running
+v10 shopping-bags
+v11 cupcake
+v12 skateboard
+v13 sports-medal+sports-medal+sports-medal
+v14 puzzle-piece
+v15 couch-and-lamp
+v16 stopwatch

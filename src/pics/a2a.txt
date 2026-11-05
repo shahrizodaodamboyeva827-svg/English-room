@@ -1,0 +1,209 @@
+@19
+e1 alarm-clock seven-oclock
+e2 woman-health-worker hospital
+e3 teapot thermometer #100°
+e4 television night-with-stars
+e5 man-student books
+e6 man-office-worker bus
+e7 hot-beverage !
+e8 boy chess-pawn ?
+e9 alarm-clock ?
+e10 pancakes #100%
+e11 man-student check-mark-button
+e12 hamburger #Sat_·_Sun
+e13 woman-teacher memo
+e14 jeans man-in-tuxedo
+e15 flag:uz flag:kr
+v1 sunrise alarm-clock
+v2 person-standing bed
+v3 shower
+v4 t-shirt+jeans
+v5 toothbrush
+v6 pancakes
+v7 bus person-running
+v8 bento-box
+v9 house-with-garden person-walking
+v10 notebook pencil
+v11 spaghetti
+v12 person-in-bed
+v13 #100%
+v14 #80%
+v15 #60%
+v16 #40%
+v17 #10%
+v18 #0%
+v19 clipboard alarm-clock
+@20
+e1 old-woman house-with-garden
+e2 busts-in-silhouette party-popper
+e3 thermometer ?
+e4 guitar national-park
+e5 fireworks+fireworks
+e6 wrapped-gift ?
+e7 birthday-cake party-popper
+e8 party-popper ?
+e9 child mobile-phone !
+e10 house-with-garden balloon
+e11 envelope !
+e12 old-man+old-woman ?
+e13 mosque tulip
+e14 pot-of-food
+e15 fireworks ?
+e16 television #-t
+e17 party-popper #-id
+e18 woman-dancing #-t
+e19 handshake spiral-calendar
+e20 airplane flag:tr
+e21 child fireworks
+v1 confetti-ball
+v2 party-popper
+v3 tulip pot-of-food
+v4 birthday-cake
+v5 wedding
+v6 mirror-ball
+v7 wrapped-gift
+v8 bust-in-silhouette door
+v9 incoming-envelope
+v10 balloon
+v11 fireworks
+v12 ferris-wheel
+v13 teapot
+v14 old-man+old-woman+woman+man
+v15 hourglass-done
+v16 tear-off-calendar left-arrow
+v17 spiral-calendar left-arrow
+v18 framed-picture
+@21
+e1 passport-control ?
+e2 ticket !
+e3 luggage ?
+e4 airplane #×3
+e5 cityscape #2015
+e6 bullet-train person-running
+e7 luggage check-mark-button
+e8 airplane-arrival ?
+e9 world-map ?
+e10 bicycle hourglass-done
+e11 flag:gb spiral-calendar
+e12 people-hugging hourglass-not-done ?
+e13 mosque ?
+e14 woman-walking station
+e15 mosque cherry-blossom
+e16 fork-and-knife-with-plate ?
+v1 airplane
+v2 bullet-train
+v3 metro
+v4 ticket
+v5 passport-control
+v6 luggage+backpack
+v7 luggage
+v8 airplane-departure
+v9 airplane #HY_271
+v10 world-map round-pushpin
+v11 beach-with-umbrella airplane
+v12 globe-with-meridians airplane
+v13 ticket check-mark-button
+v14 bus cross-mark
+v15 bus check-mark-button
+v16 airplane-arrival
+v17 automobile
+v18 footprints
+@22
+e1 cinema nine-oclock
+e2 baby #3.06.2009
+e3 handshake spiral-calendar
+e4 door person-standing
+e5 hot-beverage+bank+hotel
+e6 books key
+e7 person-walking bank
+e8 cat brick
+e9 school bus
+e10 classical-building ?
+e11 vertical-traffic-light left-arrow
+e12 national-park right-arrow
+v1 up-arrow
+v2 right-arrow-curving-left
+v3 left-arrow-curving-right
+v4 office-building right-arrow-curving-up
+v5 motorway
+v6 vertical-traffic-light
+v7 counterclockwise-arrows-button
+v8 left-right-arrow
+v9 #A_▪_B
+v10 person-walking right-arrow
+v11 person-walking left-right-arrow
+v12 person-walking bank
+v13 national-park person-walking
+v14 motorway person-walking
+v15 world-map
+v16 houses
+v17 door
+v18 round-pushpin
+@23
+e1 sun tear-off-calendar
+e2 window
+e3 handshake alarm-clock
+e4 ring-buoy ?
+e5 mosque spiral-calendar
+e6 cloud-with-snow
+e7 soccer-ball television ?
+e8 tooth woman-health-worker
+e9 girl+boy night-with-stars
+e10 airplane flag:tr
+e11 mobile-phone #10_min
+e12 party-popper spiral-calendar
+e13 waving-hand
+e14 cinema red-heart
+e15 laptop money-bag
+v1 sun-behind-rain-cloud
+v2 thermometer
+v3 #25°
+v4 sun
+v5 cloud-with-rain
+v6 cloud-with-lightning-and-rain
+v7 cloud-with-lightning
+v8 high-voltage
+v9 fog
+v10 ice
+v11 snowflake thermometer
+v12 fire thermometer
+v13 sweat-droplets
+v14 desert
+v15 droplet t-shirt
+v16 rainbow
+v17 sun fire
+v18 #~70%
+@24
+e1 label down-arrow
+e2 mobile-phone gem-stone
+e3 cityscape flag:uz
+e4 handbag #10_kg
+e5 laptop shopping-cart
+e6 chair sparkles
+e7 convenience-store thumbs-up
+e8 cloud-with-rain thumbs-down
+e9 money-with-wings down-arrow
+e10 mobile-phone high-voltage
+e11 basket shopping-cart
+e12 woman-technologist flexed-biceps
+e13 speaking-head snail
+e14 trophy chart-increasing
+v1 label
+v2 label coin
+v3 coin
+v4 gem-stone
+v5 #−50%
+v6 shopping-bags #SALE
+v7 dollar-banknote
+v8 credit-card
+v9 coin+coin
+v10 receipt
+v11 #S_M_L_XL
+v12 credit-card check-mark-button
+v13 money-with-wings
+v14 coin up-arrow
+v15 money-bag check-mark-button
+v16 woman shopping-bags
+v17 man-office-worker label
+v18 star
+v19 handshake label

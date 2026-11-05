@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Family &amp; Me lesson</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&amp;family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,300..800&amp;family=Permanent+Marker&amp;display=swap" rel="stylesheet">
+<style>
+/*CSS*/
+</style>
+</head>
+<body>
+<svg class="defs" width="0" height="0" aria-hidden="true" focusable="false"><defs>
+  <pattern id="dt-blue" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="2.5" cy="2.5" r="1.25" fill="#2C5FD0"/></pattern>
+  <pattern id="dt-pink" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.5" fill="#FF5C9E"/></pattern>
+  <pattern id="dt-white" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="2.5" cy="2.5" r="1.1" fill="#FFFFFF"/></pattern>
+</defs></svg>
+
+<!-- ============ LOGIN ============ -->
+<div id="login" class="login">
+  <header class="login-top">
+    <span class="wordmark">English Room</span>
+    <button type="button" class="link-btn" data-act="teacher-open">O‘qituvchi paneli</button>
+  </header>
+  <div class="login-grid">
+    <div class="login-copy">
+      <p class="lesson-no">1-dars, Starter daraja</p>
+      <h1 class="over" data-text="Family &amp; Me">Family &amp; Me</h1>
+      <p class="lead">Bugun o‘zingni ingliz tilida tanishtirishni va oilang haqida gapirishni o‘rganasan. Dars beshta qismdan iborat, har biri alohida sahifada, ketma-ket.</p>
+      <ol class="outline" id="outline"></ol>
+    </div>
+    <form class="tag-form" id="loginForm" novalidate>
+      <div class="tag" id="tagName">
+        <div class="tag-top"><span class="tag-hello">HELLO</span><span class="tag-sub">my name is</span></div>
+        <label class="sr" for="inName">Isming</label>
+        <input id="inName" class="tag-input" autocomplete="name" placeholder="Ismingni yoz" maxlength="28" spellcheck="false">
+      </div>
+      <div class="tag-fields">
+        <label class="field" for="inCode"><span>Kirish kodi</span></label>
+        <input id="inCode" class="input" inputmode="numeric" autocomplete="off" placeholder="Ustozingdan olgan kod">
+        <p class="hint">Sinov uchun kod: <b>2026</b></p>
+        <p class="err" id="loginErr" role="alert"></p>
+        <button class="btn btn-primary btn-wide" type="submit">Darsni boshlash</button>
+        <p class="privacy"><i data-icon="clock"></i><span>Darsda o‘tkazgan vaqting, saytdan necha marta chiqqaning va javoblaring ustozingga ko‘rinadi.</span></p>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- ============ TEACHER LOGIN ============ -->
+<div class="modal" id="tLogin" hidden>
+  <form class="modal-card" id="tForm" role="dialog" aria-modal="true" aria-labelledby="tTitle">
+    <h2 id="tTitle">O‘qituvchi sifatida kirish</h2>
+    <label class="field" for="tPass"><span>Parol</span></label>
+    <input id="tPass" class="input" type="password" autocomplete="current-password">
+    <p class="hint">Sinov uchun parol: <b>1234</b></p>
+    <p class="err" id="tErr" role="alert"></p>
+    <div class="modal-actions"><button type="button" class="btn btn-ghost" data-act="teacher-cancel">Bekor qilish</button><button class="btn btn-primary" type="submit">Kirish</button></div>
+  </form>
+</div>
+
+<!-- ============ STUDENT APP ============ -->
+<div id="app" class="app" hidden>
+  <header class="bar">
+    <div class="bar-l">
+      <span class="mini-tag"><span>Hi, I’m</span><b id="barName"></b></span>
+      <span class="bar-title">Lesson 1. Family &amp; Me</span>
+    </div>
+    <div class="bar-r">
+      <span class="timer" id="timer" title="Darsdagi faol vaqting"><i data-icon="clock"></i><span id="timerTxt">0 daq</span></span>
+      <button type="button" class="btn btn-chat" data-act="chat-open"><i data-icon="chat"></i><span class="hide-s">Savol berish</span><span class="dot" id="chatDot" hidden></span></button>
+      <button type="button" class="icon-btn" data-act="logout" title="Hisobdan chiqish" aria-label="Hisobdan chiqish"><i data-icon="door"></i></button>
+    </div>
+  </header>
+  <nav class="rail" id="rail" aria-label="Dars bo‘limlari"></nav>
+  <main class="main" id="main">
+    <section class="view" id="v-grammar" data-view="grammar" hidden></section>
+    <section class="view" id="v-vocabulary" data-view="vocabulary" hidden></section>
+    <section class="view" id="v-speaking" data-view="speaking" hidden></section>
+    <section class="view" id="v-listening" data-view="listening" hidden></section>
+    <section class="view" id="v-writing" data-view="writing" hidden></section>
+  </main>
+</div>
+
+<!-- ============ TEACHER ============ -->
+<div id="teacher" class="teacher" hidden></div>
+
+<!-- ============ CHAT ============ -->
+<aside class="chat" id="chat" aria-labelledby="chatTitle" hidden>
+  <header class="chat-head">
+    <div><h2 id="chatTitle">Ustozga savol</h2><p>Uy vazifasida tushunmagan joyingni yoz</p></div>
+    <button type="button" class="icon-btn" data-act="chat-close" aria-label="Yopish"><i data-icon="close"></i></button>
+  </header>
+  <div class="chat-log" id="chatLog" aria-live="polite"></div>
+  <div class="chat-quick" id="chatQuick"></div>
+  <form class="chat-form" id="chatForm">
+    <label class="sr" for="chatIn">Xabar</label>
+    <textarea id="chatIn" rows="2" placeholder="Masalan: «a» va «an» farqini tushunmadim"></textarea>
+    <button class="btn btn-primary" type="submit"><i data-icon="send"></i><span class="sr">Yuborish</span></button>
+  </form>
+</aside>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+/*JS*/
+</script>
+</body>
+</html>

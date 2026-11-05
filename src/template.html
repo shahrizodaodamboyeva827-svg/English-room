@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>English Room</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&amp;family=Figtree:ital,wght@0,400..800;1,400..600&amp;family=Permanent+Marker&amp;display=swap" rel="stylesheet">
+<style>
+/*CSS*/
+</style>
+<script src="media.js?v=__MV__" defer></script>
+</head>
+<body>
+
+<!-- ============ LOGIN (exactly as approved) ============ -->
+<div id="login" class="login" hidden>
+  <header class="login-top">
+    <span class="wordmark">English Room</span>
+    <button type="button" class="link-btn" data-act="teacher-open">Teacher panel</button>
+  </header>
+  <main class="login-main">
+    <form class="tag-form" id="loginForm" novalidate>
+      <div class="tag">
+        <div class="tag-top"><span class="tag-hello">HELLO</span><span class="tag-sub">my name is</span></div>
+        <label class="sr" for="tagInput">Ismingiz</label>
+        <input id="tagInput" class="tag-input" autocomplete="name" placeholder="Ism va familiya" maxlength="40" spellcheck="false">
+      </div>
+      <div class="tag-fields">
+        <label class="sr" for="codeInput">Kod</label>
+        <input id="codeInput" class="input code-in" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Ustozingiz bergan kod (masalan: olma47)" maxlength="20">
+        <p class="hint">Ism va familiyangni stikerga yozib, ustozing bergan kodni kiriting.</p>
+        <p class="err" id="loginErr" role="alert"></p>
+        <button class="btn btn-primary" type="submit">Darsni boshlash</button>
+      </div>
+    </form>
+  </main>
+</div>
+
+<!-- ============ TEACHER LOGIN ============ -->
+<div class="modal" id="tLogin" hidden>
+  <form class="modal-card" id="tForm" role="dialog" aria-modal="true" aria-labelledby="tTitle">
+    <h2 id="tTitle">Teacher panel</h2>
+    <label class="field" for="tPass"><span>Parol</span></label>
+    <input id="tPass" class="input" type="password" autocomplete="current-password">
+    <p class="err" id="tErr" role="alert"></p>
+    <div class="modal-actions"><button type="button" class="btn btn-ghost" data-act="teacher-cancel">Bekor qilish</button><button class="btn btn-primary" type="submit">Kirish</button></div>
+  </form>
+</div>
+
+<!-- ============ APP ============ -->
+<div id="shell" hidden>
+  <div class="bg-b1" aria-hidden="true">
+    
+    <i class="b1-orb o1"></i><i class="b1-orb o2"></i><i class="b1-orb o3"></i>
+  </div>
+  <div class="bg-art" aria-hidden="true">
+    
+  </div>
+  <header class="bar" id="bar"></header>
+  <main id="view"></main>
+</div>
+
+<!-- ============ CHAT ============ -->
+<aside class="chat" id="chat" aria-labelledby="chatTitle" hidden>
+  <header class="chat-head">
+    <div><h2 id="chatTitle">Ustozga savol</h2><p>Matn yozing yoki daftaringizni rasmga olib yuboring</p></div>
+    <button type="button" class="icon-btn" data-act="chat-close" aria-label="Yopish"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 6.5l11 11M17.5 6.5l-11 11" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
+  </header>
+  <div class="chat-log" id="chatLog" aria-live="polite"></div>
+  <div class="chat-foot">
+    <div class="chat-quick" id="chatQuick"></div>
+    <div class="preview" id="chatPrev" hidden></div>
+    <form class="chat-form" id="chatForm">
+      <label class="attach" title="Rasmga olish yoki rasm tanlash"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h3l1.5-2.5h7L17 8h3v11H4z" stroke="currentColor" stroke-width="1.9" fill="none" stroke-linejoin="round"/><circle cx="12" cy="13.2" r="3.4" stroke="currentColor" stroke-width="1.9" fill="none"/></svg><span class="sr">Rasm</span><input type="file" accept="image/*" capture="environment" class="sr" data-img="s"></label>
+      <label class="sr" for="chatIn">Xabar</label>
+      <textarea id="chatIn" rows="2" placeholder="Masalan: a va an farqini tushunmadim"></textarea>
+      <button class="btn btn-primary send" id="chatSend" type="submit" aria-label="Yuborish"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12l16-7-6 15-2.5-6z" fill="currentColor"/></svg></button>
+    </form>
+  </div>
+</aside>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+/*JS*/
+</script>
+</body>
+</html>

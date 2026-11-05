@@ -1,0 +1,204 @@
+# Rasm kodlari: ikona(+ikona) [badge] [#yozuv] [!=inkor] [?=savol] [sw:RANG] [flag:uz]
+@1
+e1 #A_E_I_O_U
+e2 identification-card #A-Z-I-Z
+e3 memo ?
+e4 #v_/_w
+e5 thought-balloon backhand-index-pointing-down
+e6 ship ewe
+e7 bed man
+e8 billed-cap
+e9 crossed-fingers
+e10 cat
+e11 mobile-phone #ph_=_f
+e12 ewe #wh_·_sh
+e13 microphone musical-notes
+e14 station round-pushpin
+e15 newspaper information
+e16 television couch-and-lamp
+e17 red-question-mark thumbs-up
+v1 bust-in-silhouette #Aziz
+v2 input-latin-letters
+v3 envelope
+v4 speech-balloon #word
+v5 birthday-cake
+v6 bicycle
+v7 house-with-garden
+v8 ship
+v9 ewe
+v10 #3
+v11 backhand-index-pointing-down package
+v12 mobile-phone
+v13 hundred-points
+v14 droplet
+v15 station
+v16 information
+v17 television
+v18 red-question-mark
+@2
+e1 sunrise waving-hand
+e2 girl waving-hand
+e3 cityscape-at-dusk busts-in-silhouette
+e4 night-with-stars bed
+e5 woman+man thumbs-up
+e6 person-gesturing-ok
+e7 man+woman handshake
+e8 people-hugging
+e9 handshake
+e10 waving-hand tear-off-calendar
+e11 sun sparkles
+e12 door ? #5
+e13 person-running alarm-clock
+e14 man-office-worker folded-hands
+v1 waving-hand
+v2 door waving-hand
+v3 sunrise
+v4 sun
+v5 cityscape-at-dusk
+v6 night-with-stars
+v7 people-hugging
+v8 handshake
+v9 sparkles
+v10 thumbs-up
+v11 folded-hands
+v12 palms-up-together
+v13 person-bowing
+v14 person-raising-hand
+v15 person-in-bed zzz
+v16 hourglass-not-done
+@3
+e1 girl #15
+e2 shopping-bags #40_000
+e3 office-building door #23
+e4 backpack sw:1C1F3F
+e5 mobile-phone sw:FFFFFF
+e6 green-apple+green-apple
+e7 bus+bus
+e8 baby+baby+baby
+e9 kitchen-knife+kitchen-knife
+e10 woman+woman+child+child+child
+e11 toothbrush tooth
+e12 ewe+ewe+ewe #10
+e13 cat+cat #-s
+e14 dog+dog #-z
+e15 watch+watch #-iz
+e16 egg egg #1_→_2
+e17 bread baguette-bread
+e18 speech-balloon light-bulb
+v1 #12
+v2 #13
+v3 #30
+v4 #40
+v5 hundred-points
+v6 sw:E53935
+v7 sw:1E6FE0
+v8 sw:2E9E5B
+v9 sw:F7C531
+v10 sw:8A5A35
+v11 sw:8E44C9
+v12 sw:9A9AA8
+v13 tangerine sw:F57C00
+v14 child
+v15 woman+man+person
+v16 dollar-banknote
+v17 bread
+@4
+e1 boy #16
+e2 mobile-phone sw:1C1F3F
+e3 woman-student+man-student #10-A
+e4 man-student backpack
+e5 girl
+e6 woman+man flag:kr
+e7 person-in-bed !
+e8 man house-with-garden !
+e9 woman+man flag:ru !
+e10 person flag:uz ?
+e11 girl ?
+e12 globe-showing-asia-australia ?
+e13 boy birthday-cake ?
+e14 busts-in-silhouette ?
+e15 flag:uz
+e16 girl flag:kr
+e17 speaking-head flag:gb ?
+v1 flag:uz
+v2 flag:kz
+v3 flag:ru
+v4 flag:tr
+v5 flag:kr
+v6 flag:jp
+v7 flag:cn
+v8 flag:us
+v9 flag:gb
+v10 flag:de
+v11 flag:fr
+v12 flag:es
+v13 flag:it
+v14 flag:br
+v15 flag:in
+v16 world-map
+v17 speaking-head
+@5
+e1 five-oclock
+e2 thermometer snowflake
+e3 spiral-calendar #Monday
+e4 cityscape #10_km
+e5 three-thirty
+e6 school nine-oclock
+e7 alarm-clock #5:45
+e8 sun thermometer #+40°
+e9 leaf-fluttering-in-wind
+e10 cloud-with-rain umbrella
+e11 tear-off-calendar #Friday
+e12 birthday-cake #March
+e13 tulip spiral-calendar #21.03
+e14 beach-with-umbrella
+v1 three-oclock
+v2 three-thirty
+v3 alarm-clock #15_min
+v4 spiral-calendar #Mon
+v5 spiral-calendar #Wed
+v6 couch-and-lamp #Sat_·_Sun
+v7 calendar
+v8 spiral-calendar #Feb
+v9 cherry-blossom
+v10 sunflower
+v11 fallen-leaf
+v12 snow-capped-mountain
+v13 sun
+v14 cloud
+v15 cloud-with-rain
+v16 leaf-fluttering-in-wind
+v17 cloud-with-snow
+v18 sun-behind-small-cloud thermometer
+v19 tear-off-calendar
+@6
+e1 girl #15
+e2 cityscape round-pushpin
+e3 boy #12
+e4 girl+woman
+e5 woman
+e6 cat house-with-garden
+e7 boy+man ?
+e8 man mobile-phone !
+e9 girl+boy+girl ?
+e10 man+woman+old-woman+girl+boy #5
+e11 child
+e12 woman-construction-worker
+v1 woman+man
+v2 woman
+v3 man
+v4 boy
+v5 girl
+v6 old-woman
+v7 old-man
+v8 woman-curly-hair
+v9 man-beard
+v10 girl+boy
+v11 man+boy
+v12 woman+girl
+v13 man ring
+v14 woman ring
+v15 child #1
+v16 girl+girl
+v17 house-with-garden
+v18 identification-card

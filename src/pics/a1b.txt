@@ -1,0 +1,194 @@
+@13
+e1 t-shirt+jeans ?
+e2 coat snowflake
+e3 mans-shoe door
+e4 jeans straight-ruler
+e5 running-shoe+running-shoe
+e6 glasses ?
+e7 coat sw:1C1F3F
+e8 dress sw:E53935
+e9 socks yarn
+e10 jeans mirror ?
+e11 t-shirt #XXL
+e12 womans-clothes sparkles
+v1 t-shirt
+v2 necktie
+v3 jeans
+v4 jeans sw:6B5B45
+v5 dress
+v6 womans-clothes
+v7 coat sw:1C1F3F
+v8 coat
+v9 coat yarn
+v10 coat sw:9A9AA8
+v11 running-shoe
+v12 womans-boot
+v13 socks
+v14 billed-cap
+v15 scarf
+v16 necktie school
+v17 person-standing t-shirt
+v18 mirror
+v19 straight-ruler check-mark-button
+@14
+e1 person-raising-hand ?
+e2 old-woman spiral-calendar
+e3 fork-and-knife-with-plate bubbles
+e4 bed
+e5 t-shirt+socks !
+e6 shortcake
+e7 muted-speaker
+e8 fork-and-knife-with-plate sponge
+e9 video-game joystick
+e10 woman speech-balloon !
+e11 wastebasket
+e12 potted-plant droplet
+e13 palms-up-together ?
+v1 fork-and-knife-with-plate bubbles
+v2 t-shirt soap
+v3 bed
+v4 basket sparkles
+v5 electric-plug broom
+v6 broom
+v7 wastebasket
+v8 fork-and-knife-with-plate
+v9 t-shirt fire
+v10 potted-plant droplet
+v11 cat fish
+v12 soap
+v13 sponge sparkles
+v14 broom+basket+sponge
+v15 socks+books+t-shirt
+v16 bed sparkles
+@15
+e1 couch-and-lamp mobile-phone
+e2 bed cat
+e3 bathtub left-right-arrow
+e4 television backhand-index-pointing-left
+e5 socks bed
+e6 office-building #5
+e7 automobile down-arrow
+e8 house-with-garden
+e9 bed+bed
+e10 couch-and-lamp candle
+v1 office-building
+v2 couch-and-lamp
+v3 bed
+v4 cooking
+v5 bathtub
+v6 door
+v7 ladder
+v8 ladder up-arrow
+v9 ladder down-arrow
+v10 office-building #3rd
+v11 window potted-plant
+v12 deciduous-tree+tulip
+v13 house up-arrow
+v14 brick
+v15 window
+v16 couch-and-lamp
+v17 #carpet
+v18 candle
+v19 left-right-arrow
+@16
+e1 cooking fork-and-knife-with-plate
+e2 lotion-bottle bathtub
+e3 shower ?
+e4 toothbrush
+e5 potable-water #×2
+e6 soap
+e7 kitchen-knife+kitchen-knife
+e8 glass-of-milk+glass-of-milk
+e9 fork-and-knife-with-plate bubbles
+e10 cheese-wedge snowflake
+e11 mirror
+v1 ice cheese-wedge
+v2 cooking fire
+v3 droplet soap
+v4 file-cabinet
+v5 fork-and-knife-with-plate
+v6 bowl-with-spoon
+v7 kitchen-knife
+v8 fork-and-knife
+v9 spoon
+v10 cooking
+v11 roll-of-paper
+v12 soap
+v13 lotion-bottle
+v14 toothbrush
+v15 toothbrush tooth
+v16 mirror
+v17 womans-clothes door
+v18 bed zzz
+v19 person-in-bed
+v20 books+books
+@17
+e1 pill house-with-garden
+e2 cinema+cinema
+e3 glass-of-milk snowflake
+e4 bus-stop ?
+e5 fork-and-knife-with-plate ?
+e6 hut cinema !
+e7 hot-beverage sparkles
+e8 deciduous-tree+deciduous-tree
+e9 shopping-bags cityscape
+e10 classical-building ?
+e11 candy !
+e12 beverage-box ?
+e13 door bust-in-silhouette
+e14 bowl-with-spoon ?
+e15 key magnifying-glass-tilted-left
+e16 ice #0
+v1 bank
+v2 post-office
+v3 hospital
+v4 pill
+v5 shopping-cart
+v6 basket grapes
+v7 baguette-bread croissant
+v8 classical-building
+v9 books
+v10 national-park
+v11 cinema
+v12 mosque
+v13 stadium
+v14 fountain
+v15 bridge-at-night
+v16 bus-stop
+v17 department-store
+v18 houses
+v19 busts-in-silhouette+busts-in-silhouette
+@18
+e1 fork-and-knife-with-plate+fork-and-knife-with-plate+fork-and-knife-with-plate
+e2 shallow-pan-of-food carrot
+e3 candy+lollipop+chocolate-bar
+e4 egg ?
+e5 droplet ?
+e6 hourglass-not-done
+e7 hamburger ?
+e8 coin sandwich
+e9 money-with-wings
+e10 tomato green-salad
+e11 chair+chair+chair
+e12 steaming-bowl poultry-leg
+e13 potable-water ?
+e14 shortcake ?
+e15 receipt
+v1 page-facing-up fork-and-knife
+v2 green-salad
+v3 shallow-pan-of-food
+v4 shortcake
+v5 steaming-bowl
+v6 green-salad
+v7 cooked-rice
+v8 cut-of-meat
+v9 fish
+v10 cheese-wedge
+v11 beverage-box
+v12 man-in-tuxedo
+v13 receipt
+v14 memo fork-and-knife
+v15 hot-pepper
+v16 face-savoring-food
+v17 leafy-green
+v18 takeout-box

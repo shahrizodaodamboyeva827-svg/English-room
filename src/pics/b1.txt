@@ -1,0 +1,39 @@
+@201
+e1 bank
+e2 thermometer droplet
+e3 calendar !
+e4 soccer-ball ?
+e5 bullet-train
+e6 key face-with-hand-over-mouth
+e7 alarm-clock
+e8 old-woman ?
+e9 cloud-with-snow
+e10 house people-hugging
+e11 beach-with-umbrella
+e12 ear
+e13 chart-increasing
+e14 thinking-face ?
+e15 books up-arrow
+e16 dress
+e17 house
+e18 office-building
+e19 automobile
+e20 automobile umbrella-with-rain-drops
+e21 speech-balloon
+e22 speech-balloon angry-face
+e23 hot-beverage
+e24 handshake
+e25 hot-pepper
+e26 mobile-phone
+e27 thumbs-up
+e28 books
+e29 sleepy-face
+e30 briefcase thinking-face
+e31 speech-balloon books
+e32 school ?
+e33 open-book
+e34 house ?
+e35 fish !
+e36 cloud-with-rain ?
+e37 speaking-head ?
+e38 mobile-phone ?

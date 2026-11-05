@@ -1,0 +1,222 @@
+@1
+e1 Bu 5 ta unli harf. Qolgan 21 tasi undosh.
+e2 Ismni harflaganda harflarning nomi aytiladi: «ey – zed – ay – zed».
+e3 *spell* — harflab aytish. Tanishuvda juda ko‘p so‘raladi.
+e4 *v* da yuqori tishlar labga tegadi, *w* da lablar dumaloq bo‘ladi.
+e5 Ikkalasida ham til uchi tishlar orasida: think — ovozsiz, this — ovozli.
+e6 ship — qisqa «i», sheep — uzun «i:». Ma’no butunlay o‘zgaradi.
+e7 Yozuvda *b* va *d* ko‘zgudagidek: bed so‘zini chizib eslab qoling.
+e8 cap: undosh + unli + undosh, shuning uchun *a* qisqa /æ/ o‘qiladi.
+e9 hope oxirida sehrli *e*: o harf nomidek «ou» o‘qiladi.
+e10 cute: sehrli *e* tufayli u — «yu:» o‘qiladi.
+e11 *ph* doim /f/ o‘qiladi: «fon».
+e12 *wh* — /w/, *sh* — /ʃ/. Ikki harf — bitta tovush.
+e13 *ng* oxirida g alohida eshitilmaydi: /sɪŋ/.
+e14 -tion — «shn»: «steyshn». «Stat-si-on» emas.
+e15 Urg‘u -tion dan oldingi bo‘g‘inga tushadi: infor*MA*tion.
+e16 Unlidan keyin -sion «jn» o‘qiladi: tele*VI*-jn.
+e17 question da t oldidan s bor: «kvesch(ə)n».
+@2
+e1 Ertalabdan tushgacha. Rasmiy salom: ustoz va kattalarga.
+e2 *Hi* — do‘stlar orasidagi norasmiy salom.
+e3 Kechqurun kelganda aytiladigan salom.
+e4 *Good night* — salom emas: xayrlashganda yoki uxlashdan oldin.
+e5 Javobdan keyin «And you?» deb qaytarib so‘rash — odob.
+e6 «How are you?» ning do‘stona, norasmiy varianti.
+e7 Birinchi marta tanishganda: *Nice to meet you*.
+e8 Odamni tanishtirganda *This is…* deymiz, «He is…» emas.
+e9 Javobda oxiriga *too* qo‘shiladi: «men ham».
+e10 *See you* + vaqt: See you later / tomorrow / on Monday.
+e11 Xayrlashganda yaxshi tilak. Javob qisqa: You too!
+e12 *Excuse me* — biror narsa so‘rashdan oldin murojaat.
+e13 *Sorry* — uzr so‘rash: xato yoki kechikish uchun.
+e14 *Mr* — erkakka, *Mrs / Ms* — ayolga, familiya bilan aytiladi.
+@3
+e1 Yosh *to be* bilan aytiladi: I’m 15. «I have 15» — xato.
+e2 *forty* u harfisiz yoziladi: four, lekin forty.
+e3 21–99 gacha sonlar chiziqcha bilan: twenty-three.
+e4 Rang otdan oldin keladi: a black bag, «a bag black» emas.
+e5 Rang so‘rash: *What colour is…?*
+e6 Umuman yoqtirganda ko‘plik ishlatiladi: apples.
+e7 -s, -ss, -sh, -ch, -x bilan tugasa *-es*: buses.
+e8 undosh + y → *-ies*: baby → babies.
+e9 -f / -fe → *-ves*: knife → knives.
+e10 Noto‘g‘ri ko‘plik: woman → *women*, child → *children*.
+e11 tooth → *teeth*: ichidagi unli o‘zgaradi.
+e12 sheep ning ko‘pligi ham *sheep*: o‘zgarmaydi.
+e13 Jarangsiz undoshdan keyin -s «s» o‘qiladi.
+e14 Jarangli tovushdan keyin -s «z» o‘qiladi.
+e15 -es «iz» o‘qiladi: so‘zga bitta bo‘g‘in qo‘shiladi.
+e16 Sanaladigan ot: an egg — two eggs.
+e17 Sanalmaydigan otni sanash uchun: *a loaf of*, a piece of…
+e18 advice sanalmaydi: «an advice», «advices» deyilmaydi.
+@4
+e1 Toni erkak, shuning uchun *he*.
+e2 Narsa haqida gapirganda *it*.
+e3 Lola va men = *we*. «I» doim katta harf bilan.
+e4 *I* bilan faqat *am*. Kasbdan oldin a / an.
+e5 she is → *she’s*: og‘zaki nutqdagi qisqa shakl.
+e6 Ko‘plik (ular) bilan *are*.
+e7 Inkor: am + *not*. «I amn’t» degan shakl yo‘q.
+e8 is not → *isn’t*.
+e9 are not → *aren’t*.
+e10 Savolda fe’l oldinga chiqadi. Ijobiy qisqa javobda qisqartma yo‘q: Yes, I *am*.
+e11 Inkor qisqa javobda qisqartma bo‘ladi: No, she *isn’t*.
+e12 So‘roq so‘zi + fe’l + ega: Where + *are* + you.
+e13 Yosh so‘rash: *How old* + is / are.
+e14 *Who* — kim. «they» ko‘plik, shuning uchun are.
+e15 Mamlakat: from + Uzbekistan; millat: I’m + Uzbek. Ikkalasi ham katta harf bilan.
+e16 Millat ko‘pincha *-an* bilan: Korea → Korean.
+e17 Til nomi ham katta harf bilan yoziladi: English.
+@5
+e1 Vaqtda ega yo‘q, shuning uchun *It* qo‘yiladi.
+e2 Ob-havo: *It’s* + sifat.
+e3 Hafta kunlari doim katta harf bilan yoziladi.
+e4 Masofa ham *It* bilan aytiladi.
+e5 *half past* — … yarim: 3:30.
+e6 Aniq soatdan oldin *at*.
+e7 *quarter to* — … ga chorak kam: 5:45.
+e8 sun → *sunny*: ot + y = sifat.
+e9 Ob-havoni so‘rash: *What’s the weather like?*
+e10 Ayni paytda yog‘ayotgan yomg‘ir: *It’s raining*.
+e11 Kun nomi: It’s + Friday.
+e12 Oylardan oldin *in*.
+e13 Aniq sanadan oldin *on*.
+e14 Fasllar odatda artiklsiz: in summer, I love summer.
+@6
+e1 Ism ham, yosh ham *I’m* bilan aytiladi.
+e2 *from* — tug‘ilgan joy, *live in* — hozir yashaydigan joy.
+e3 «years old» ixtiyoriy: twelve yoki twelve years old.
+e4 I have got → *I’ve got*: menda bor.
+e5 She has got → *she’s got*. hair sanalmaydi: «hairs» emas.
+e6 we / you / they bilan *have got*.
+e7 Savol: *Have* + ega + got? Qisqa javobda got bo‘lmaydi.
+e8 he / she / it bilan inkor: *hasn’t got*.
+e9 Nechta? — *How many* + ko‘plik ot.
+e10 Oila a’zolari soni: *There are* + son + people.
+e11 Eng kichik — *the youngest*. Oldidan doim the keladi.
+e12 engineer unli tovush bilan boshlanadi, shuning uchun *an*.
+@7
+e1 old unli bilan boshlanadi: *an* old cat. Artikl keyingi so‘zga qaraydi.
+e2 apple unli tovush bilan boshlanadi: *an*.
+e3 Kasbdan oldin doim a / an.
+e4 hour da h o‘qilmaydi, so‘z unli tovushdan boshlanadi: *an* hour.
+e5 Birinchi marta *a*, ikkinchi marta *the* — endi qaysi to‘tiqush ekanini bilamiz.
+e6 Yagona narsa: *the* sun, the moon.
+e7 Cholg‘u asboblari bilan *the*.
+e8 Dengiz va daryo nomlari bilan *the*.
+e9 Umuman gapirganda artikl yo‘q, ot ko‘plikda.
+e10 Ovqat nomlari (breakfast, lunch, dinner) artiklsiz.
+e11 Sport turlari artiklsiz: play football.
+e12 Umumiy fikr: artiklsiz ko‘plik.
+e13 Undosh tovushdan oldin the — /ðə/.
+e14 Unli tovushdan oldin the — /ði/.
+e15 orange unli bilan boshlanadi: the — /ði/.
+@8
+e1 Yaqindagi bitta narsa: *this*.
+e2 Yaqindagi bir nechta narsa: *these* + are.
+e3 Savolda this fe’ldan keyin keladi: Is this…?
+e4 Uzoqdagi bitta: *that*.
+e5 Uzoqdagi bir nechta: *those*.
+e6 Uzoqdagi odam haqida so‘rash: Who is that?
+e7 Javobda that emas, *it* ishlatiladi.
+e8 Ko‘plik javobida *they*.
+e9 Ijobiy qisqa javob qisqartmasiz: they are.
+e10 Odamni tanishtirish: *this is*.
+e11 Telefonda o‘zini tanishtirish: *this is*, «I am» emas.
+@9
+e1 Sifat otdan oldin keladi: a *kind* girl.
+e2 Sifat fe’ldan keyin ham keladi va o‘zgarmaydi: «funnys» emas.
+e3 honest da h o‘qilmaydi: *an* honest.
+e4 Tartib: fikr (nice) → o‘lcham (tall) → yosh (young) → ot.
+e5 o‘lcham → rang: long black.
+e6 fikr → yosh: beautiful old.
+e7 *look like* — tashqi ko‘rinish haqida savol.
+e8 *be like* — xarakter haqida savol.
+e9 Ko‘zoynak «taqadi» — inglizchada *wear*.
+e10 *really* sifatni kuchaytiradi: juda, haqiqatan.
+e11 *a bit* — biroz (ko‘pincha salbiy sifat bilan).
+e12 *quite* — ancha.
+@10
+e1 Har kungi odat: go.
+e2 Ovqatlanish: *have* breakfast / lunch / dinner.
+e3 Xato qilmoq — *make* a mistake (do emas).
+e4 Uy vazifasi — *do* homework.
+e5 Yangi narsa yaratish — *make*.
+e6 Do‘st orttirish — *make friends*.
+e7 *can* + fe’lning asosiy shakli: can speak («can to speak» emas).
+e8 Inkor: *can’t* (cannot).
+e9 Savolda can oldinga chiqadi. Qisqa javob: Yes, I can.
+e10 Iltimos: *Can you…?*
+e11 Ruxsat so‘rash: *Can I…?*
+e12 Biror narsa so‘rash: *Can I have…?*
+e13 want dan keyin *to* + fe’l.
+e14 can dan keyin to yo‘q, want dan keyin *to* bor.
+@11
+e1 *her* — uning (ayol).
+e2 Hayvon yoki narsa uchun *its* — apostrofsiz.
+e3 *our* — bizning, otdan oldin keladi.
+e4 Ot takrorlanmaydi: *yours*, *mine* — sizniki, meniki.
+e5 *theirs* — ularniki; undan keyin ot kelmaydi.
+e6 hers = her phone.
+e7 Odamga tegishli: ism + *’s*.
+e8 -s bilan tugagan ko‘plik: faqat apostrof *’*.
+e9 children -s bilan tugamaydi, shuning uchun *children’s*.
+e10 Narsalar uchun ko‘pincha *of*: the end of…
+e11 Narsaning xususiyati: the colour *of*.
+e12 the capital *of* + mamlakat.
+e13 *Whose* — kimniki? Javob: ism + ’s.
+e14 Whose savoliga qisqa javob: mine.
+e15 *It’s* = it is; *its* — uning. Adashtirmang!
+e16 Mushukning o‘yinchog‘i — *its* toy.
+@12
+e1 Hozir davom etayotgan ish: *am* + fe’l*-ing*.
+e2 Inkor: isn’t + -ing. chat → chatting (t ikkilanadi).
+e3 Savol: *Are* + you + -ing?
+e4 run → *running*: qisqa unli + undosh bo‘lsa, undosh ikkilanadi.
+e5 make → *making*: oxiridagi e tushib qoladi.
+e6 sit → *sitting*.
+e7 *Listen! / Look!* — hozir bo‘layotganini bildiradi.
+e8 *this week* — vaqtinchalik davr, shuning uchun -ing.
+e9 *right now* — aynan hozir.
+e10 understand — holat fe’li: -ing olmaydi.
+e11 have = ovqatlanmoq (harakat) bo‘lsa, -ing mumkin.
+e12 have = ega bo‘lmoq (holat): -ing olmaydi.
+@13
+e1 Hozir egnidagi kiyim: *are wearing*.
+e2 *put on* — kiymoq (harakat).
+e3 *take off* — yechmoq.
+e4 trousers doim ko‘plikda: *are*, these.
+e5 Juft narsalarni sanash: *a pair of*.
+e6 glasses (ko‘zoynak) ham ko‘plik: are.
+e7 Tartib: fikr → rang → material → ot.
+e8 o‘lcham → rang → material.
+e9 xususiyat → material: warm woollen.
+e10 *try on* — do‘konda kiyib ko‘rish.
+e11 *too* + sifat: me’yordan ortiq.
+e12 *suit* — yarashmoq (rang, uslub).
+@14
+e1 Fe’ldan keyin *me* (I emas).
+e2 *her* — uni (ayol), fe’ldan keyin keladi.
+e3 Ko‘plik narsa: *them*.
+e4 Buyruq gap fe’lning asosiy shakli bilan boshlanadi.
+e5 Taqiq: *Don’t* + fe’l.
+e6 Buyruq taklif ham bo‘ladi: *Have* some…
+e7 Sifat bilan buyruq: *Be* + sifat.
+e8 Taklif: *Let’s* + fe’l (keling, …ylik).
+e9 *Let’s* — o‘zingizni ham qo‘shib taklif qilasiz.
+e10 Inkor taklif: *Let’s not* + fe’l.
+e11 *Please* boshida yoki oxirida keladi va buyruqni yumshatadi.
+e12 water — bu yerda fe’l: suv quymoq.
+e13 *Could you…?* — eng muloyim iltimos.
+@15
+e1 *on* — ustida.
+e2 *under* — ostida.
+e3 *opposite* — qarshisida.
+e4 *next to* — yonida.
+e5 Ko‘plik: Where *are*…? → They’re…
+e6 Qavat: *on the* + tartib son + floor.
+e7 *downstairs* — pastda (oldidan in qo‘yilmaydi).
+e8 Uyda — *at home* (the yo‘q).
+e9 Xonalar soni: *has got*.
+e10 *but* ikki qarama-qarshi fikrni bog‘laydi.

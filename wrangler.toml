@@ -1,0 +1,11 @@
+name = "english-room"
+main = "dist/worker.js"
+compatibility_date = "2025-06-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "english-room"
+database_id = "BU_YERGA_D1_ID_NI_YOZING"
+
+[ai]
+binding = "AI"

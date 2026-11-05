@@ -1,0 +1,10 @@
+ENGLISH ROOM — LOYIHA PAPKASI
+
+dist/worker.js ........ Cloudflare'ga yuklanadigan tayyor worker (sayt ichida)
+dist/site/ ............ Netlify uchun tayyor sayt (index.html, style.css, app.js, media.js)
+ovozlar-english-room-ovozlar.zip .. ovoz paketlari (Teacher panel orqali bir marta yuklanadi)
+README.txt ............ serverga joylash qadamlari
+src/, worker/, build.py .. manba kodi. O‘zgartirib, "python3 build.py" bilan qayta yig‘iladi.
+tools/ ................ matn/ovoz yordamchi skriptlari
+
+Teacher panel paroli (Bosh ustoz): e.room123
