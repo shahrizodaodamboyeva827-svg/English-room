@@ -5,7 +5,7 @@ compatibility_date = "2025-06-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "english-room"
-database_id = "BU_YERGA_D1_ID_NI_YOZING"
+database_id = "e54cbc0c-bf8e-4e11-a77f-6234b2e0314a"
 
 [ai]
 binding = "AI"
